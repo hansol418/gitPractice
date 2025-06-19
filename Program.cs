@@ -11,7 +11,7 @@ namespace gitPractice
         /// <summary>
         /// 해당 애플리케이션의 주 진입점입니다.
         /// </summary>
-        /// 깃연동 test
+        /// 깃연동 test, one more check!
         [STAThread]
         static void Main()
         {
